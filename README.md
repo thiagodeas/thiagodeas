@@ -1,9 +1,11 @@
 <img align="right" height="350" src="https://img.freepik.com/vetores-gratis/ilustracao-do-conceito-de-codificacao-manual_114360-8193.jpg?t=st=1714166097~exp=1714169697~hmac=4ee49150f852b2c0848a9478c89b99c6d45ea8973f1bc169adbca4ce4fe50a78&w=740" alt="developer vector designed by www.freepik.com">
 
 # Olá, meu nome é Thiago Sousa! 😀
-> Frontend Developer
+> Software Developer
 
-💬 Atualmente cursando o terceiro semestre em Análise e Desenvolvimento de Sistemas, sou um apaixonado por tecnologia que decidiu seguir no caminho da programação. Com uma base sólida em React, estou focado em desenvolver interfaces, sites e aplicações dinâmicas e responsivas, criando soluções em software de alta qualidade. Estou animado para enfrentar novos desafios e contribuir para equipes que valorizam a qualidade e a inovação no desenvolvimento de software.
+💬 Meu nome é Thiago De Sousa Alves, tenho 22 anos, atualmente estou cursando o terceiro semestre em Análise e Desenvolvimento de Sistemas e sou um apaixonado por tecnologia que decidiu seguir no caminho da programação. Meu primeiro contato com programação foi com Python e logo em seguida conheci o JavaScript, onde aprofundei meus estudos, passando mais de um ano focado no Front-End.
+
+Após esse tempo me desenvolvendo no Front, resolvi investir uma maior parte do meu tempo para finalmente conhecer o Back-End. Desde então, sigo me aprimorando em Node e Java, com o intuito de me tornar um profissional cada vez mais capacitado.
 
 ## 💡 Minhas Habilidades
 
