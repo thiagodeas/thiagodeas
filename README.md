@@ -3,9 +3,9 @@
 # Olá, meu nome é Thiago Sousa! 😀
 > Software Developer
 
-💬 Meu nome é Thiago De Sousa Alves, tenho 22 anos, atualmente estou cursando o terceiro semestre em Análise e Desenvolvimento de Sistemas e sou um apaixonado por tecnologia que decidiu seguir no caminho da programação. Meu primeiro contato com programação foi com Python e logo em seguida conheci o JavaScript, onde aprofundei meus estudos, passando mais de um ano focado no Front-End.
+💬 Meu nome é Thiago De Sousa Alves, tenho 22 anos e estou cursando o terceiro semestre em Análise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e iniciei minha trajetória na programação com Python, logo depois me aprofundando em JavaScript, onde dediquei mais de um ano ao desenvolvimento Front-End.
 
-Após esse tempo me desenvolvendo no Front, resolvi investir uma maior parte do meu tempo para finalmente conhecer o Back-End. Desde então, sigo me aprimorando em Node e Java, com o intuito de me tornar um profissional cada vez mais capacitado.
+Após essa experiência focada apenas em Front-End, decidi diversificar minhas habilidades e voltei meu foco para o Back-End. Atualmente, estou aprimorando meus conhecimentos em Node e Java, buscando me tornar um profissional cada vez mais capacitado e completo no desenvolvimento de software.
 
 ## 💡 Minhas Habilidades
 
@@ -14,6 +14,9 @@ Após esse tempo me desenvolvendo no Front, resolvi investir uma maior parte do 
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-525252?style=for-the-badge&logo=javascript&logoColor=f1e05a)
 ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-525252?style=for-the-badge&logo=typescript&logoColor=%233178C6)
 ![React](https://img.shields.io/badge/React-525252?style=for-the-badge&logo=react&logoColor=5ed3f3)
+![Next.js](https://img.shields.io/badge/Next.js-525252?style=for-the-badge&logo=next.js&logoColor=ffffff)
+![Node.js](https://img.shields.io/badge/Node.js-525252?style=for-the-badge&logo=node.js&logoColor=8CC84B)
+![Java](https://img.shields.io/badge/Java-525252?style=for-the-badge&logo=java&logoColor=ed8b00)
 ![Git](https://img.shields.io/badge/Git-525252?style=for-the-badge&logo=git&logoColor=e94e31)
 ![GitHub](https://img.shields.io/badge/GitHub-525252?style=for-the-badge&logo=github&logoColor=000000)
 ![ReactRouter](https://img.shields.io/badge/ReactRouter-525252?style=for-the-badge&logo=reactrouter&logoColor=f14747)
@@ -23,6 +26,7 @@ Após esse tempo me desenvolvendo no Front, resolvi investir uma maior parte do 
 ![Docker](https://img.shields.io/badge/Docker-525252?style=for-the-badge&logo=docker&logoColor=35add2)
 ![Insomnia](https://img.shields.io/badge/Insomnia-525252?style=for-the-badge&logo=insomnia&logoColor=35add2)
 ![Figma](https://img.shields.io/badge/Figma-525252?style=for-the-badge&logo=figma&logoColor=f14747)
+![SQL](https://img.shields.io/badge/SQL-525252?style=for-the-badge&logo=sqlite&logoColor=003B57)
 ![HTML](https://img.shields.io/badge/html-525252?style=for-the-badge&logo=html&logoColor=35add2)
 ![CSS](https://img.shields.io/badge/css-525252?style=for-the-badge&logo=css&logoColor=35add2)
 
