@@ -1,4 +1,4 @@
-<img align="right" height="350" src="https://img.freepik.com/vetores-gratis/ilustracao-do-conceito-de-codificacao-manual_114360-8193.jpg?t=st=1714166097~exp=1714169697~hmac=4ee49150f852b2c0848a9478c89b99c6d45ea8973f1bc169adbca4ce4fe50a78&w=740" alt="developer vector designed by www.freepik.com">
+<img align="right" height="350" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" alt="developer vector designed by www.freepik.com">
 
 # Olá, meu nome é Thiago Sousa! 😀
 > Software Developer
