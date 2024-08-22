@@ -3,7 +3,7 @@
 # Olá, meu nome é Thiago Sousa! 😀
 > Software Developer
 
-💬 Meu nome é Thiago, tenho 23 anos e estou cursando o terceiro semestre em Análise e Desenvolvimento de Sistemas. Iniciei minha trajetória na programação com Python, logo depois me aprofundando em JavaScript, onde dediquei mais de um ano ao desenvolvimento Front-End.
+💬 Meu nome é Thiago, tenho 23 anos e estou cursando o terceiro semestre em Análise e Desenvolvimento de Sistemas. Iniciei minha trajetória na programação com Python, logo depois me aprofundando em JavaScript e React, onde dediquei mais de um ano ao desenvolvimento Front-End.
 
 Após essa experiência focada apenas em Front-End, decidi diversificar minhas habilidades e voltei meu foco para o Back-End. Atualmente, estou aprimorando meus conhecimentos em Java, buscando me tornar um profissional cada vez mais capacitado e completo no desenvolvimento de software.
 
