@@ -3,9 +3,9 @@
 # Olá, meu nome é Thiago Sousa! 😀
 > Software Developer
 
-💬 Meu nome é Thiago, tenho 23 anos e sou graduando em Análise e Desenvolvimento de Sistemas pela Estácio. Iniciei minha trajetória na programação com Python, aprofundando-me posteriormente em JavaScript, TypeScript e React, com mais de um ano de dedicação ao desenvolvimento Front-End.
+💬 Meu nome é Thiago, tenho 23 anos e sou um Desenvolvedor Full Stack fascinado pelo ecossistema JavaScript. Iniciei minha trajetória na programação com Python, mas logo migrei para o universo JavaScript, onde dediquei mais de um ano de estudos em frameworks e ferramentas como React, Vue.js e Next.js.
 
-Após essa experiência focada apenas em Front-End, decidi diversificar minhas habilidades e voltei meu foco para o Back-End. Atualmente, estou aprimorando meus conhecimentos em Java, buscando me tornar um profissional cada vez mais capacitado e completo no desenvolvimento de software.
+Após essa experiência mais voltada para o Front End, entendi que estava na hora de ampliar minhas habilidades. Atualmente, estou aprimorando meus conhecimentos em Node.js, Laravel e Java. 
 
 ## 💡 Minhas Habilidades
 
