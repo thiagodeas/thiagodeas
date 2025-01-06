@@ -45,8 +45,3 @@ Após essa experiência mais voltada para o Front End, entendi que estava na hor
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </div>
-
-##
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGNrdjM2Y2QxdXJoNnlqbWg5OWdyMzd2YWkyMGVwenQzZ2hoNmVrYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif">
-</p>
