@@ -34,7 +34,7 @@ Após essa experiência mais voltada para o Front End, entendi que estava na hor
 ![SQL](https://img.shields.io/badge/SQL-525252?style=for-the-badge&logo=sql&logoColor=003B57)
 ![AWS](https://img.shields.io/badge/aws-525252?style=for-the-badge&logo=amazonwebservices&logoColor=#FF9900)
 
-## 📫 Conecte-se Comigo
+## 📫 Contato
 
 <div align="center">
   <a href="https://www.linkedin.com/in/thiagodsousa/" target="_blank">
