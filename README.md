@@ -1,7 +1,7 @@
 <img align="right" height="350" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" alt="developer vector designed by www.freepik.com">
 
 # Olá, meu nome é Thiago Sousa! 😀
-> Software Developer
+> Software Develope
 
 💬 Sou um Desenvolvedor Full Stack fascinado por tecnologia. Iniciei minha trajetória na programação com Python, mas logo migrei para o universo JavaScript, onde dediquei mais de um ano de estudos em frameworks e ferramentas como React e Vue.js.
 
