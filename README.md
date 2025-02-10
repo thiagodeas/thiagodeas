@@ -3,9 +3,7 @@
 # Olá, meu nome é Thiago Sousa! 😀
 > Software Developer
 
-💬 Sou um Desenvolvedor Full Stack fascinado por tecnologia. Iniciei minha trajetória na programação com Python, mas logo migrei para o universo JavaScript, onde dediquei mais de um ano de estudos em frameworks e ferramentas como React e Vue.js.
-
-Após essa experiência mais voltada para o Front End, entendi que estava na hora de ampliar minhas habilidades. Atualmente, estou aprimorando meus conhecimentos em Node.js e Java. 
+💬 Desenvolvedor Full Stack apaixonado por tecnologia e aprendizado contínuo, com uma base sólida em desenvolvimento Front-End (JavaScript, TypeScript, React, Vue) e Back-End (Node.js, Java, MongoDB, Docker). Hábil em resolver problemas, com foco em criar soluções escaláveis e eficientes.
 
 ## 💡 Minhas Habilidades
 
