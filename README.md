@@ -19,7 +19,6 @@
 ![Java](https://img.shields.io/badge/Java-525252?style=for-the-badge&logo=java&logoColor=ed8b00)
 ![SpringBoot](https://img.shields.io/badge/SPRINGBOOT-525252?style=for-the-badge&logo=springboot&logoColor=67b14c)
 ![PHP](https://img.shields.io/badge/PHP-525252?style=for-the-badge&logo=php&logoColor=#4F5B93)
-![Laravel](https://img.shields.io/badge/laravel-525252?style=for-the-badge&logo=laravel&logoColor=#F25C54)
 ![Git](https://img.shields.io/badge/Git-525252?style=for-the-badge&logo=git&logoColor=e94e31)
 ![GitHub](https://img.shields.io/badge/GitHub-525252?style=for-the-badge&logo=github&logoColor=000000)
 ![StyledComponents](https://img.shields.io/badge/StyledComponents-525252?style=for-the-badge&logo=styledcomponents&logoColor=f7cb56)
