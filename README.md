@@ -26,7 +26,6 @@
 ![Docker](https://img.shields.io/badge/Docker-525252?style=for-the-badge&logo=docker&logoColor=35add2)
 ![Postman](https://img.shields.io/badge/POSTMAN-525252?style=for-the-badge&logo=postman&logoColor=ff6c38)
 ![Insomnia](https://img.shields.io/badge/Insomnia-525252?style=for-the-badge&logo=insomnia&logoColor=35add2)
-![Figma](https://img.shields.io/badge/Figma-525252?style=for-the-badge&logo=figma&logoColor=f14747)
 ![MySQl](https://img.shields.io/badge/MYSQL-525252?style=for-the-badge&logo=mysql&logoColor=FFFFff)
 ![SQL](https://img.shields.io/badge/SQL-525252?style=for-the-badge&logo=sql&logoColor=003B57)
 ![AWS](https://img.shields.io/badge/aws-525252?style=for-the-badge&logo=amazonwebservices&logoColor=#FF9900)
