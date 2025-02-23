@@ -1,6 +1,6 @@
 <img align="right" height="350" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" alt="developer vector designed by www.freepik.com">
 
-# Olá, meu nome é Thiago Sousa! 😀
+# Olá, meu nome é Thiago! 😀
 > Software Developer
 
 💬 Desenvolvedor Full Stack apaixonado por tecnologia e aprendizado contínuo, com uma base sólida em desenvolvimento Front-End (JavaScript, TypeScript, React, Vue) e Back-End (Node.js, Java, MongoDB, Docker). Hábil em resolver problemas, com foco em criar soluções escaláveis e eficientes.
