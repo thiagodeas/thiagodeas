@@ -3,7 +3,7 @@
 # Olá, meu nome é Thiago! 😀
 > Software Developer
 
-💬 Desenvolvedor Full Stack apaixonado por tecnologia e aprendizado contínuo, com uma base sólida em desenvolvimento Front-End (JavaScript, TypeScript, React, Vue) e Back-End (Node.js, Java, MongoDB, Docker). Hábil em resolver problemas, com foco em criar soluções escaláveis e eficientes.
+💬 Desenvolvedor Full Stack apaixonado por tecnologia, com uma base sólida em desenvolvimento Front-End (JavaScript, TypeScript, React, Vue) e Back-End (Node.js, Java, MongoDB, Docker). Hábil em resolver problemas, com foco em criar soluções escaláveis e eficientes.
 
 ## 💡 Minhas Habilidades
 
