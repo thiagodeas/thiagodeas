@@ -22,6 +22,7 @@
 ![React](https://img.shields.io/badge/React-525252?style=for-the-badge&logo=react&logoColor=5ed3f3)
 ![Next.js](https://img.shields.io/badge/Next-525252?style=for-the-badge&logo=next.js&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-525252?style=for-the-badge&logo=vue.js&logoColor=green)
+![Jest](https://img.shields.io/badge/jest-525252?style=for-the-badge&logo=jest&logoColor=ff0000)
 ![StyledComponents](https://img.shields.io/badge/StyledComponents-525252?style=for-the-badge&logo=styledcomponents&logoColor=f7cb56)
 ![Tailwind](https://img.shields.io/badge/Tailwind-525252?style=for-the-badge&logo=tailwindcss&logoColor=36b7f0)
 ![AWS](https://img.shields.io/badge/aws-525252?style=for-the-badge&logo=amazonwebservices&logoColor=#FF9900)
