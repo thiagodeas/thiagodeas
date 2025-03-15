@@ -1,6 +1,6 @@
 <img align="right" height="350" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" alt="developer vector designed by www.freepik.com">
 
-# Olá, meu nome é Thiago! 😀
+# Olá, meu nome é Thiago! 
 > Software Developer
 
 💬 Desenvolvedor apaixonado por tecnologia, com uma base sólida em desenvolvimento Backend (Node, Java, MongoDB, PostgreSQL, MySQL, Docker), Front-End (JavaScript, TypeScript, React, Next.js) e Testes Unitários (Jest, JUnit), garantindo qualidade e boas práticas de desenvolvimento.
