@@ -3,7 +3,7 @@
 # Olá, meu nome é Thiago! 🙂
 > Software Developer
 
-💬 Desenvolvedor apaixonado por tecnologia, com uma base sólida em desenvolvimento Backend (Node, Java, MongoDB, PostgreSQL, MySQL, Docker), Front-End (JavaScript, TypeScript, React, Next.js) e Testes Unitários (Jest, JUnit), garantindo qualidade e boas práticas de desenvolvimento.
+💬 Desenvolvedor Full Stack autodidata apaixonado por tecnologia. Focado na criação de soluções escaláveis e de alto desempenho. Gosto de trabalhar em equipe, resolver problemas complexos e me aprimorar constantemente para entregar resultados cada vez melhores.
 
 ## 💡 Minhas Habilidades
 
