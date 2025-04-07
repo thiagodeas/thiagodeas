@@ -1,6 +1,6 @@
 <img align="right" height="350" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" alt="developer vector designed by www.freepik.com">
 
-# Olá, meu nome é Thiago! 🙂
+# Olá, meu nome é Thiago! 
 > Software Developer
 
 💬 Desenvolvedor Full Stack autodidata apaixonado por tecnologia. Focado na criação de soluções escaláveis e de alto desempenho. Gosto de trabalhar em equipe, resolver problemas complexos e me aprimorar constantemente para entregar resultados cada vez melhores.
