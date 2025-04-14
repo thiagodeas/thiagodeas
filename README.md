@@ -3,7 +3,7 @@
 # Olá, meu nome é Thiago! 
 > Software Developer
 
-💬 Desenvolvedor Full Stack autodidata apaixonado por tecnologia. Focado na criação de soluções escaláveis e de alto desempenho. Gosto de trabalhar em equipe, resolver problemas complexos e me aprimorar constantemente para entregar resultados cada vez melhores.
+💬 Desenvolvedor autodidata apaixonado por tecnologia. Focado na criação de soluções escaláveis e de alto desempenho. Entusiasta de Inteligência Artificial, busco constantemente explorar e aplicar seus conceitos para potencializar resultados. Gosto de trabalhar em equipe, resolver problemas complexos e me aprimorar para entregar resultados cada vez melhores.
 
 ## 💡 Minhas Habilidades
 
