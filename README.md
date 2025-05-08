@@ -3,7 +3,7 @@
 # Olá, meu nome é Thiago! 
 > Software Developer
 
-💬 Desenvolvedor autodidata apaixonado por tecnologia. Focado na criação de soluções escaláveis e de alto desempenho. Entusiasta de Inteligência Artificial, busco constantemente explorar e aplicar seus conceitos para potencializar resultados. Gosto de trabalhar em equipe, resolver problemas complexos e me aprimorar para entregar resultados cada vez melhores.
+💬 Desenvolvedor autodidata apaixonado por tecnologia. Entusiasta de Inteligência Artificial, busco constantemente explorar e aplicar seus conceitos para potencializar resultados. Gosto de trabalhar em equipe, resolver problemas complexos e me aprimorar para entregar resultados cada vez melhores.
 
 ## 💡 Minhas Habilidades
 
@@ -11,25 +11,21 @@
 
 ![Node.js](https://img.shields.io/badge/Node.js-525252?style=for-the-badge&logo=node.js&logoColor=8CC84B)
 ![NestJS](https://img.shields.io/badge/Nestjs-525252?style=for-the-badge&logo=nestjs&logoColor=red)
-![Java](https://img.shields.io/badge/Java-525252?style=for-the-badge&logo=java&logoColor=ed8b00)
+![Java](https://img.shields.io/badge/Java-525252?style=for-the-badge&logo=openjdk&logoColor=ed8b00)
 ![SpringBoot](https://img.shields.io/badge/SPRINGBOOT-525252?style=for-the-badge&logo=springboot&logoColor=67b14c)
 ![PHP](https://img.shields.io/badge/PHP-525252?style=for-the-badge&logo=php&logoColor=#4F5B93)
+![Laravel](https://img.shields.io/badge/laravel-525252?style=for-the-badge&logo=laravel&logoColor=red)
 ![Docker](https://img.shields.io/badge/Docker-525252?style=for-the-badge&logo=docker&logoColor=35add2)
 ![MongoDB](https://img.shields.io/badge/mongodb-525252?style=for-the-badge&logo=mongodb&logoColor=green)
 ![MySQl](https://img.shields.io/badge/MYSQL-525252?style=for-the-badge&logo=mysql&logoColor=FFFFff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-525252?style=for-the-badge&logo=postgresql&logoColor=white
+)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-525252?style=for-the-badge&logo=javascript&logoColor=f1e05a)
 ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-525252?style=for-the-badge&logo=typescript&logoColor=%233178C6)
 ![React](https://img.shields.io/badge/React-525252?style=for-the-badge&logo=react&logoColor=5ed3f3)
 ![Next.js](https://img.shields.io/badge/Next-525252?style=for-the-badge&logo=next.js&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-525252?style=for-the-badge&logo=vue.js&logoColor=green)
 ![Jest](https://img.shields.io/badge/jest-525252?style=for-the-badge&logo=jest&logoColor=ff0000)
-![StyledComponents](https://img.shields.io/badge/StyledComponents-525252?style=for-the-badge&logo=styledcomponents&logoColor=f7cb56)
 ![Tailwind](https://img.shields.io/badge/Tailwind-525252?style=for-the-badge&logo=tailwindcss&logoColor=36b7f0)
-![AWS](https://img.shields.io/badge/aws-525252?style=for-the-badge&logo=amazonwebservices&logoColor=#FF9900)
-![Git](https://img.shields.io/badge/Git-525252?style=for-the-badge&logo=git&logoColor=e94e31)
-![GitHub](https://img.shields.io/badge/GitHub-525252?style=for-the-badge&logo=github&logoColor=000000)
-![Postman](https://img.shields.io/badge/POSTMAN-525252?style=for-the-badge&logo=postman&logoColor=ff6c38)
-![Insomnia](https://img.shields.io/badge/Insomnia-525252?style=for-the-badge&logo=insomnia&logoColor=35add2)
 
 ## 📫 Contato
 
