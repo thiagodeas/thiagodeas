@@ -10,6 +10,8 @@
 **Linguagens e Ferramentas**
 
 ![Node.js](https://img.shields.io/badge/Node.js-525252?style=for-the-badge&logo=node.js&logoColor=8CC84B)
+![Fastify](https://img.shields.io/badge/Fastify-525252?style=for-the-badge&logo=fastify&logoColor=FFFFFF)
+![Express](https://img.shields.io/badge/Express-525252?style=for-the-badge&logo=express&logoColor=FFFFFF)
 ![NestJS](https://img.shields.io/badge/Nestjs-525252?style=for-the-badge&logo=nestjs&logoColor=red)
 ![Java](https://img.shields.io/badge/Java-525252?style=for-the-badge&logo=openjdk&logoColor=ed8b00)
 ![SpringBoot](https://img.shields.io/badge/SPRINGBOOT-525252?style=for-the-badge&logo=springboot&logoColor=67b14c)
