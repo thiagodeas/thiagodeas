@@ -20,14 +20,13 @@ Desenvolvedor autodidata apaixonado por tecnologia. Entusiasta de Inteligência 
 ![Docker](https://img.shields.io/badge/Docker-525252?style=for-the-badge&logo=docker&logoColor=35add2)
 ![MongoDB](https://img.shields.io/badge/mongodb-525252?style=for-the-badge&logo=mongodb&logoColor=green)
 ![MySQl](https://img.shields.io/badge/MYSQL-525252?style=for-the-badge&logo=mysql&logoColor=FFFFff)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-525252?style=for-the-badge&logo=postgresql&logoColor=white
-)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-525252?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-525252?style=for-the-badge&logo=amazonwebservices&logoColor=%23FF9900)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-525252?style=for-the-badge&logo=javascript&logoColor=f1e05a)
 ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-525252?style=for-the-badge&logo=typescript&logoColor=%233178C6)
+![Angular](https://img.shields.io/badge/ANGULAR-525252?style=for-the-badge&logo=angular&logoColor=%23DD0031)
 ![React](https://img.shields.io/badge/React-525252?style=for-the-badge&logo=react&logoColor=5ed3f3)
 ![Next.js](https://img.shields.io/badge/Next-525252?style=for-the-badge&logo=next.js&logoColor=black)
-![Jest](https://img.shields.io/badge/jest-525252?style=for-the-badge&logo=jest&logoColor=ff0000)
-![Tailwind](https://img.shields.io/badge/Tailwind-525252?style=for-the-badge&logo=tailwindcss&logoColor=36b7f0)
 
 ## 📫 Contato
 
