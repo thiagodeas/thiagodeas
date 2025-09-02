@@ -1,9 +1,9 @@
 <img align="right" height="350" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" alt="developer vector designed by www.freepik.com">
 
 # Olá, meu nome é Thiago! 
-> **Software Developer**
+> **Full Stack Developer**
 
-Desenvolvedor autodidata apaixonado por tecnologia. Entusiasta de Inteligência Artificial, busco constantemente explorar e aplicar seus conceitos para potencializar resultados. Além disso, tenho dedicado atenção à engenharia de software e às boas práticas de desenvolvimento para melhorar a qualidade das minhas entregas. Gosto de trabalhar em equipe, resolver problemas complexos e me aprimorar para entregar resultados cada vez melhores.
+Desenvolvedor Full Stack apaixonado por tecnologia. Entusiasta de Inteligência Artificial, busco constantemente explorar e aplicar seus conceitos para potencializar resultados. Além disso, tenho dedicado atenção à engenharia de software e às boas práticas de desenvolvimento para melhorar a qualidade das minhas entregas. Gosto de trabalhar em equipe, resolver problemas complexos e me aprimorar para entregar resultados cada vez melhores.
 
 ## 💡 Minhas Habilidades
 
