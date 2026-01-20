@@ -10,9 +10,6 @@ Desenvolvedor Full Stack apaixonado por tecnologia. Entusiasta de Inteligência 
 **Linguagens e Ferramentas**
 
 ![Node.js](https://img.shields.io/badge/Node.js-525252?style=for-the-badge&logo=node.js&logoColor=8CC84B)
-![Fastify](https://img.shields.io/badge/Fastify-525252?style=for-the-badge&logo=fastify&logoColor=FFFFFF)
-![Express](https://img.shields.io/badge/Express-525252?style=for-the-badge&logo=express&logoColor=FFFFFF)
-![NestJS](https://img.shields.io/badge/Nestjs-525252?style=for-the-badge&logo=nestjs&logoColor=red)
 ![Java](https://img.shields.io/badge/Java-525252?style=for-the-badge&logo=openjdk&logoColor=ed8b00)
 ![SpringBoot](https://img.shields.io/badge/SPRINGBOOT-525252?style=for-the-badge&logo=springboot&logoColor=67b14c)
 ![PHP](https://img.shields.io/badge/PHP-525252?style=for-the-badge&logo=php&logoColor=#4F5B93)
@@ -26,7 +23,6 @@ Desenvolvedor Full Stack apaixonado por tecnologia. Entusiasta de Inteligência 
 ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-525252?style=for-the-badge&logo=typescript&logoColor=%233178C6)
 ![Angular](https://img.shields.io/badge/ANGULAR-525252?style=for-the-badge&logo=angular&logoColor=%23DD0031)
 ![React](https://img.shields.io/badge/React-525252?style=for-the-badge&logo=react&logoColor=5ed3f3)
-![Next.js](https://img.shields.io/badge/Next-525252?style=for-the-badge&logo=next.js&logoColor=black)
 
 ## 📫 Contato
 
