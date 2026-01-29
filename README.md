@@ -1,19 +1,18 @@
 <img align="right" height="350" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" alt="developer vector designed by www.freepik.com">
 
 # Olá, meu nome é Thiago! 
-> **Full Stack Developer**
+> **Backend Developer**
 
-Desenvolvedor Full Stack apaixonado por tecnologia. Entusiasta de Inteligência Artificial, busco constantemente explorar e aplicar seus conceitos para potencializar resultados. Tenho dedicado atenção à engenharia de software e às boas práticas de desenvolvimento para melhorar a qualidade das minhas entregas. Gosto de trabalhar em equipe, resolver problemas complexos e me aprimorar para entregar resultados cada vez melhores.
+Desenvolvedor Backend apaixonado por tecnologia. Entusiasta de Inteligência Artificial, busco constantemente explorar e aplicar seus conceitos para potencializar resultados. Tenho dedicado atenção à engenharia de software e às boas práticas de desenvolvimento para melhorar a qualidade das minhas entregas. Gosto de trabalhar em equipe, resolver problemas complexos e me aprimorar para entregar resultados cada vez melhores.
 
 ## 💡 Minhas Habilidades
 
 **Linguagens e Ferramentas**
 
 ![Node.js](https://img.shields.io/badge/Node.js-525252?style=for-the-badge&logo=node.js&logoColor=8CC84B)
+![NestJS](https://img.shields.io/badge/NestJS-525252?style=for-the-badge&logo=nestjs&logoColor=E0234E)
 ![Java](https://img.shields.io/badge/Java-525252?style=for-the-badge&logo=openjdk&logoColor=ed8b00)
 ![SpringBoot](https://img.shields.io/badge/SPRINGBOOT-525252?style=for-the-badge&logo=springboot&logoColor=67b14c)
-![PHP](https://img.shields.io/badge/PHP-525252?style=for-the-badge&logo=php&logoColor=#4F5B93)
-![Laravel](https://img.shields.io/badge/laravel-525252?style=for-the-badge&logo=laravel&logoColor=red)
 ![Docker](https://img.shields.io/badge/Docker-525252?style=for-the-badge&logo=docker&logoColor=35add2)
 ![MongoDB](https://img.shields.io/badge/mongodb-525252?style=for-the-badge&logo=mongodb&logoColor=green)
 ![MySQl](https://img.shields.io/badge/MYSQL-525252?style=for-the-badge&logo=mysql&logoColor=FFFFff)
